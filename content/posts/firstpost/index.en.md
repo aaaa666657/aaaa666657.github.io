@@ -3,7 +3,7 @@ title: "Hugo 撰寫文章"
 subtitle: ""
 date: 2021-06-28T21:18:32+08:00
 lastmod: 2021-06-28T21:18:32+08:00
-draft: true
+draft: false
 author: "KAI"
 authorLink: ""
 description: ""
