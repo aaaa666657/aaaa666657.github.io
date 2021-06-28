@@ -8,7 +8,7 @@ author: "KAI"
 authorLink: ""
 description: ""
 
-tags: []
+tags: [Hugo]
 categories: []
 
 hiddenFromHomePage: false
@@ -27,13 +27,8 @@ license: ""
 
 <!--more-->
 
-## Step 1
-
 - 記得要先更新archetypes底下的default.md
-
 - ![photo1](./photo1.png)
 
-## Step 2
-
-- ```bash
+```bash
   hugo new post/文章名稱/index.md
