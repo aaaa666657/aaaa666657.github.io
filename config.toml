@@ -4,7 +4,7 @@ baseURL = "https://blog.kainull.com"
 defaultContentLanguage = "en"
 # theme
 # 主题
-theme = "LoveIt"
+theme = "loveIt"
 # themes directory
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 # website title
