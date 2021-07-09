@@ -7,4 +7,4 @@
 - ![photo1](./photo1.png)
 
 ```bash
-  hugo new post/文章名稱/index.md
+  hugo new posts/文章名稱/index.md
