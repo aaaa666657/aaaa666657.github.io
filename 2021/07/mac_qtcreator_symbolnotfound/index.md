@@ -10,6 +10,8 @@
 
 
 ```bash
+cd /usr/local/lib
+
 mv libjpeg.dylib libjpeg.dylib.bak
 
 ln -s /System/Library/Frameworks/ImageIO.framework/Resources/libJPEG.dylib libJPEG.dylib
